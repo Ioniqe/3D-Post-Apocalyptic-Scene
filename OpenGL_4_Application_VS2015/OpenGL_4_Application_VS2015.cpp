@@ -480,7 +480,7 @@ void initModels()
 	ground = gps::Model3D("objects/ground/ground.obj", "objects/ground/");
 	lightCube = gps::Model3D("objects/cube/cube.obj", "objects/cube/");
 
-	scene = gps::Model3D("objects/updatedv9/new_design.obj", "objects/updatedv9/"); //there are multiple versions (updatedv3, updatedv7, updatedv9, updatedv10)
+	scene = gps::Model3D("objects/updatedv10/new_design.obj", "objects/updatedv10/"); //there are multiple versions (updatedv3, updatedv7, updatedv9, updatedv10)
 
 	wheel = gps::Model3D("objects/Wheel/Wheel.obj", "objects/Wheel/");
 
